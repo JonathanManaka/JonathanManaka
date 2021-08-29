@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JonathanManaka
-- 👀 I’m interested in application development
+- 👋 Hi, I’m @MphoManaka
+- 👀 I’m interested in Application development
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on any c++ projects
+- 💞️ I’m looking to collaborate on any c++ | c# projects
 - 📫 Mphomanaka91@gmail.com, (+27)789319360
 
 <!---
