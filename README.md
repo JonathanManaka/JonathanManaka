@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MphoManaka
-- 👀 I’m interested in Application development
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in Application Development 
+- 🌱 I’m currently a Freelancer
 - 💞️ I’m looking to collaborate on any c++ | c# projects
 - 📫 Mphomanaka91@gmail.com, (+27)789319360
 
